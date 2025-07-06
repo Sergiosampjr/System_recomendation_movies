@@ -51,7 +51,7 @@ Com isso,abaixo é mostrada a imagem com os clusters agrupados de forma precisa.
 ## 🛠️ Como executar o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/netflix-kmeans.git
-cd netflix-kmeans
+git clone https://github.com/seu-usuario/system_recomendation_movies.git
+cd machine_learning
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run nao_supervisionado.py
